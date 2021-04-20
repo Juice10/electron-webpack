@@ -44,6 +44,9 @@
   "workspaces": [
     "packages/*"
   ],
+  "bin": {
+    "electron-webpack": "./packages/electron-webpack/out/cli.js"
+  },
   "resolutions": {
     "js-yaml": "^3.13.1"
   },
