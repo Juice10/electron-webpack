@@ -39,7 +39,7 @@
     "ts-json-schema-generator": "^0.65.0",
     "tslint": "^6.1.1",
     "typescript": "^3.8.3",
-    "webpack": "^4.42.1"
+    "webpack": "^5.34.0"
   },
   "dependencies": {
     "@types/webpack-env": "^1.15.1",
